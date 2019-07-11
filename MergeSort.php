@@ -11,7 +11,6 @@ class MergeSort{
       echo $value." ";
     }
     echo "<br>";
-    echo get_browser();
   }
   private function sort(&$arr,$st,$end){
     // echo $st."---".$end;
